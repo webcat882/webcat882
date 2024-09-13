@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Jose Luis 👋 </h1>
+<h1 align="center">Hi, I'm Paul Castro 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joseluis882.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">I am Senior Full Stack Developer</h3>
 
